@@ -3,7 +3,7 @@
 O projeto tem como objetivo transformar o meu [primeiro repositório](https://github.com/GuilhermeVaiano/jogoDaVelhaRanqueado) em uma aplicação web do jogo da velha. Nesta aplicação, será implementado um sistema de ranqueamento para classificar os jogadores com base no desempenho entre as partidas. A intenção é aprimorar os meus conhecimentos em Java e aprender novas ferramentas de desenvolvimento, especialmente as relacionadas ao front-end.
 
 # **Planejamento**
-O acompanhamento do projeto poderá ser feito através da documentação principal do projeto, disponível no arquivo tic-tac-toe-masters_documentacao.
+O acompanhamento do projeto poderá ser feito através da documentação principal do projeto, disponível no arquivo tic-tac-toe-masters_documentacao. O projeto ainda está em fase de planejamento e, conforme eu avanço nos estudos, irei atualizar a documentação para só depois começar a implementar a codificação do projeto.
 
 # **Status do Projeto**  
 🔭 **Em planejamento** 🔭  
