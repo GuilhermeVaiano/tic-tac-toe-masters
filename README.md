@@ -22,11 +22,11 @@ O projeto está no estágio inicial. No momento, estou fazendo o levantamento do
 
 ### Comunicação entre back-end e front-end:  
 
-* API RESTful: O Spring Boot, por padrão, suporta a criação de APIs RESTful para se comunicar com o front-end. Você pode utilizar os recursos do Spring MVC para definir os endpoints da sua API.  
+* API RESTful: O Spring Boot, por padrão, suporta a criação de APIs RESTful para se comunicar com o front-end. Irei utilizar os recursos do Spring MVC para definir os endpoints da API que será construída.  
 
 ### Autenticação e segurança:
 
-* Spring Security: O Spring Security é uma biblioteca que permite adicionar autenticação e autorização ao seu aplicativo Spring Boot. Será utilizada para proteger as rotas e funcionalidades do seu sistema, garantindo que apenas usuários autenticados possam acessá-las.  
+* Spring Security: O Spring Security é uma biblioteca que permite adicionar autenticação e autorização ao seu aplicativo Spring Boot. Será utilizada para proteger as rotas e funcionalidades do sistema, garantindo que apenas usuários autenticados possam acessá-las.  
 
 ### Testes:
 
