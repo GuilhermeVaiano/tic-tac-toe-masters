@@ -1,9 +1,9 @@
 # **Sobre o Projeto**
 
-O projeto tem como objetivo transformar o meu [primeiro repositório](https://github.com/GuilhermeVaiano/JogoDaVelha) em uma aplicação web do jogo da velha. Nesta aplicação, será implementado um sistema de ranqueamento para classificar os jogadores com base no desempenho entre as partidas. A intenção é aprimorar os meus conhecimentos em Java e aprender novas ferramentas de desenvolvimento, especialmente as relacionadas ao front-end.
+O projeto tem como objetivo transformar o meu [primeiro repositório](https://github.com/GuilhermeVaiano/jogoDaVelhaRanqueado) em uma aplicação web do jogo da velha. Nesta aplicação, será implementado um sistema de ranqueamento para classificar os jogadores com base no desempenho entre as partidas. A intenção é aprimorar os meus conhecimentos em Java e aprender novas ferramentas de desenvolvimento, especialmente as relacionadas ao front-end.
 
 # **Planejamento**
-O acompanhamento do projeto poderá ser feito através da documentação principal do projeto, disponível no arquivo tic-tac-toe-masters_documentacao.
+O acompanhamento do projeto poderá ser feito através da documentação principal do projeto, disponível no arquivo tic-tac-toe-masters_documentacao. O projeto ainda está em fase de planejamento e, conforme eu avanço nos estudos, irei atualizar a documentação para só depois começar a implementar a codificação do projeto.
 
 # **Status do Projeto**  
 🔭 **Em planejamento** 🔭  
@@ -22,11 +22,11 @@ O projeto está no estágio inicial. No momento, estou fazendo o levantamento do
 
 ### Comunicação entre back-end e front-end:  
 
-* API RESTful: O Spring Boot, por padrão, suporta a criação de APIs RESTful para se comunicar com o front-end. Você pode utilizar os recursos do Spring MVC para definir os endpoints da sua API.  
+* API RESTful: O Spring Boot, por padrão, suporta a criação de APIs RESTful para se comunicar com o front-end. Irei utilizar os recursos do Spring MVC para definir os endpoints da API que será construída.  
 
 ### Autenticação e segurança:
 
-* Spring Security: O Spring Security é uma biblioteca que permite adicionar autenticação e autorização ao seu aplicativo Spring Boot. Será utilizada para proteger as rotas e funcionalidades do seu sistema, garantindo que apenas usuários autenticados possam acessá-las.  
+* Spring Security: O Spring Security é uma biblioteca que permite adicionar autenticação e autorização ao seu aplicativo Spring Boot. Será utilizada para proteger as rotas e funcionalidades do sistema, garantindo que apenas usuários autenticados possam acessá-las.  
 
 ### Testes:
 
