@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" modified="2023-07-17T22:15:31.669Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CW0-b2B3Z7YXzqBO6l7E" version="21.6.2" type="device">
+  <diagram name="Página-1" id="6AlaYQrfEIFN3yaB-M0u">
+    <mxGraphModel dx="880" dy="490" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3Di0J2-nKNWEmB4N7HCb-1" value="Jogador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="135" y="188" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Di0J2-nKNWEmB4N7HCb-3" value="Buscar partida" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="140" width="119" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="3Di0J2-nKNWEmB4N7HCb-4" value="Realizar jogada" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="201" width="119" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="3Di0J2-nKNWEmB4N7HCb-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="3Di0J2-nKNWEmB4N7HCb-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="168" y="212" as="sourcePoint" />
+            <mxPoint x="437" y="231" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Di0J2-nKNWEmB4N7HCb-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="3Di0J2-nKNWEmB4N7HCb-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="166" y="221" as="sourcePoint" />
+            <mxPoint x="437" y="231" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
